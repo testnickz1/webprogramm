@@ -1,0 +1,14 @@
+.web {
+    color: fuchsia;
+}
+.hm {
+    height: 2000px;
+    width: 300px;
+    background-color: aqua;
+}
+#wer {
+    text-decoration-line: underline;
+}
+.bg {
+    background-image: url(https://i.ytimg.com/vi/1oQ0dC9XLN4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFUgSyhlMA8=&rs=AOn4CLCfknS5bjVN_iQT_FjZPu6yu5fz7Q);
+}
